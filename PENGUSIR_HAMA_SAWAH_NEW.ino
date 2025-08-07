@@ -9,7 +9,7 @@
 #include <SoftwareSerial.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "ham";
+char ssid[] = "hamasawah";
 char pass[] = "12345678";
 
 SoftwareSerial EspSerial(2, 3); // RX, TX
